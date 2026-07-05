@@ -1,0 +1,14 @@
+# environment
+.env
+.venv/
+venv/
+
+# python cache
+__pycache__/
+*.pyc
+
+# model / ML files
+*.pkl
+
+# OS files
+.DS_Store
